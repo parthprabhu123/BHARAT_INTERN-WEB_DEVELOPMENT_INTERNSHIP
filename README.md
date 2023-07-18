@@ -1,2 +1,2 @@
 # BHARAT-INTERN
-SHOWCASED PROJECTS ON WEB DEVELOPMENT INTERNSHIP
+Showcased projects on Web Development Internship
