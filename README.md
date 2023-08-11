@@ -8,4 +8,4 @@ Task 2 - Temperature Converter : Create a simple website using HTML,CSS,JAVASCRI
 Task 3 -  Homepage of Netflix : A simple website having similar homepage that of Netflix using using HTML and CSS.
 
 
-Projects on Machine Learning Internship
+
